@@ -15,6 +15,6 @@ I am currently focused on advancing my knowledge in blockchain development, expl
 When I'm not coding, I dedicate my time to spiritual growth and reflection. I believe that nurturing the mind and soul is as important as developing technical skills. This balance helps me stay grounded and inspired in both my personal and professional life.
 
 ## 📫 Connect with Me
-I am always open to meaningful conversations, collaborations, or any inquiries you might have. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dawit-mellese/)or email me at [dawitm777@gmail.com](mailto:dawitm777@gmail.com).
+I am always open to meaningful conversations, collaborations, or any inquiries you might have. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dawit-mellese/) or email me at [dawitm777@gmail.com](mailto:dawitm777@gmail.com).
 
 Thank you for visiting my profile.
