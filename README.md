@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I am Dawit Mellese, a dedicated **Software Develop
 - **Backend Development**: Experienced in building scalable and efficient backend systems using Node.js, Django, and FastAPI.
 
 ## 🌱 Current Endeavors
-I am currently focused on advancing my knowledge in blockchain development, exploring the latest frontend and backend technologies, and delving deeper into machine learning. My goal is to stay at the forefront of innovation and apply these skills to impactful projects.
+I am currently focused on advancing my knowledge in blockchain development, exploring the latest frontend and backend technologies. My goal is to stay at the forefront of innovation and apply these skills to impactful projects.
 
 ## 📚 Beyond Coding
 When I'm not coding, I dedicate my time to spiritual growth and reflection. I believe that nurturing the mind and soul is as important as developing technical skills. This balance helps me stay grounded and inspired in both my personal and professional life.
