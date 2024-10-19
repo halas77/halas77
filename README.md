@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Dawit Mellese—a software developer.
+### 👋 Hello, I'm Dawit Mellese — a software developer.
 
 ### 🚀 My Core Skills
 - **Blockchain & Smart Contracts**: I am proficient in Solidity and develop decentralized applications (dApps) that prioritize security and efficiency.
