@@ -1,9 +1,8 @@
-### 👋 Hello, I'm Dawit Mellese
-- **Software developer**
+### 👋 Hello, I'm Dawit Mellese—a software developer.
 
 ### 🚀 My Core Skills
-- **Blockchain & Smart Contracts**: Proficient in Solidity, I develop decentralized applications (dApps) that prioritize security and efficiency.
-- **Frontend Development**: Skilled in Next.js and React, I specialize in building intuitive and engaging user interfaces.
+- **Blockchain & Smart Contracts**: I am proficient in Solidity and develop decentralized applications (dApps) that prioritize security and efficiency.
+- **Frontend Development**: I am skilled in Next.js and React and specialize in building intuitive and engaging user interfaces.
 - **Backend Development**: Experienced in building scalable and efficient backend systems using Node.js, Django, and FastAPI.
 
 ### 🛠️ Languages & Frameworks
