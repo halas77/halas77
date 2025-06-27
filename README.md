@@ -1,7 +1,6 @@
 ### 👋 Hello, I'm Dawit Mellese.
 
-- Building the next wave of blockchain-powered solutions   
-- Driven to shape the future of decentralized finance   
+- Full stack website developer  
 - Passionate about empowering public goods and open-source innovation  
 
 ### 🛠️ Languages & Frameworks
