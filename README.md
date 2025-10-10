@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Dawit Mellese.
 
-- Full stack website developer  
+- Software developer  
 - Passionate about empowering public goods and open-source innovation  
 
 ### 🛠️ Languages & Frameworks
